@@ -13,6 +13,10 @@
 
 ## How to use program
 
+First download the frontend code from "front" folder and download Angular CLI to be able to run the application. The rest instructions are in readme.md inside front folder.
+Second Download the backend from "mailserver" folder and run the server through any IDE ex. IntelliJ and the app will run on port 8080.
+Last, start using the app.
+
 In our program, the user must sign up in our site to be able to use our program If the user already has an account so he should sign in to be able to send and receive his incoming cmails. 
 Send e-mails: after clicking on "composite", there is a white blank paper that appear to write whatever you want to send. Delete incoming e-mails: there is a trash button, after clicking on it, the message will be saved in file called "delete" 
 All your outcoming e-mails are saved in file called "sent" in case you want to take a look in it again. There is a file called "draft": the code will save all the unsended mails in it In case the user wants to order his cmails, there is an "order" button to make it easy to order them. In case the user wants to filter his cmails, there is a "filter" button to make it easy to order them. The search section, it is for searching for contacts, cmails and words. There is an "attachment" button, the user can select any number of attachments to send. 
