@@ -18,7 +18,7 @@ Send e-mails: after clicking on "composite", there is a white blank paper that a
 All your outcoming e-mails are saved in file called "sent" in case you want to take a look in it again. There is a file called "draft": the code will save all the unsended mails in it In case the user wants to order his cmails, there is an "order" button to make it easy to order them. In case the user wants to filter his cmails, there is a "filter" button to make it easy to order them. The search section, it is for searching for contacts, cmails and words. There is an "attachment" button, the user can select any number of attachments to send. 
 
 ## Snapshots
-!['1'](docs/Screenshot 284.png)
+!['1'](docs/Screenshot284.png)
 
 !['1'](docs/Screenshot 285.png)
 
